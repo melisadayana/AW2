@@ -1,0 +1,100 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Camiseta de Fútbol",
+        "descripcion": "Camiseta oficial del equipo local",
+        "precio": 50.00,
+        "imagen": "http://example.com/images/camiseta_futbol.jpg",
+        "activo": true
+      },
+      {
+        "id": 2,
+        "nombre": "Pantalones de Entrenamiento",
+        "descripcion": "Pantalones cómodos para entrenamiento",
+        "precio": 40.00,
+        "imagen": "http://example.com/images/pantalones_entrenamiento.jpg",
+        "activo": true
+      },
+      {
+        "id": 3,
+        "nombre": "Zapatillas de Running",
+        "descripcion": "Zapatillas ligeras para correr",
+        "precio": 75.00,
+        "imagen": "http://example.com/images/zapatillas_running.jpg",
+        "activo": true
+      },
+      {
+        "id": 4,
+        "nombre": "Sudadera con Capucha",
+        "descripcion": "Sudadera con capucha para días fríos",
+        "precio": 60.00,
+        "imagen": "http://example.com/images/sudadera_capucha.jpg",
+        "activo": true
+      },
+      {
+        "id": 5,
+        "nombre": "Guantes de Entrenamiento",
+        "descripcion": "Guantes para mejorar el agarre durante el ejercicio",
+        "precio": 20.00,
+        "imagen": "http://example.com/images/guantes_entrenamiento.jpg",
+        "activo": true
+      },
+      {
+        "id": 6,
+        "nombre": "Calcetines Deportivos",
+        "descripcion": "Calcetines que absorben el sudor",
+        "precio": 10.00,
+        "imagen": "http://example.com/images/calcetines_deportivos.jpg",
+        "activo": true
+      },
+      {
+        "id": 7,
+        "nombre": "Gorra Deportiva",
+        "descripcion": "Gorra ajustable para protección solar",
+        "precio": 15.00,
+        "imagen": "http://example.com/images/gorra_deportiva.jpg",
+        "activo": true
+      },
+      {
+        "id": 8,
+        "nombre": "Mochila Deportiva",
+        "descripcion": "Mochila espaciosa para llevar tu equipo",
+        "precio": 45.00,
+        "imagen": "http://example.com/images/mochila_deportiva.jpg",
+        "activo": true
+      },
+      {
+        "id": 9,
+        "nombre": "Chaqueta Impermeable",
+        "descripcion": "Chaqueta ligera y resistente al agua",
+        "precio": 85.00,
+        "imagen": "http://example.com/images/chaqueta_impermeable.jpg",
+        "activo": true
+      },
+      {
+        "id": 10,
+        "nombre": "Cinturón de Hidratación",
+        "descripcion": "Cinturón para llevar botellas de agua",
+        "precio": 30.00,
+        "imagen": "http://example.com/images/cinturon_hidratacion.jpg",
+        "activo": true
+      },
+      {
+        "id": 11,
+        "nombre": "Reloj Deportivo",
+        "descripcion": "Reloj con monitor de ritmo cardíaco",
+        "precio": 120.00,
+        "imagen": "http://example.com/images/reloj_deportivo.jpg",
+        "activo": true
+      },
+      {
+        "id": 12,
+        "nombre": "Cuerda para Saltar",
+        "descripcion": "Cuerda para saltar de alta velocidad",
+        "precio": 25.00,
+        "imagen": "http://example.com/images/cuerda_saltar.jpg",
+        "activo": true
+      }
+    ]
+}  
