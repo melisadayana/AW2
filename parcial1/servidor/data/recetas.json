@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pastel de chocolate",
+    "ingredientes": [
+      {
+        "idIngrediente": 1,
+        "cantidad": 200
+      },
+      {
+        "idIngrediente": 3,
+        "cantidad": 3
+      },
+      {
+        "idIngrediente": 4,
+        "cantidad": 150
+      },
+      {
+        "idIngrediente": 2,
+        "cantidad": 50
+      },
+      {
+        "idIngrediente": 6,
+        "cantidad": 80
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Galletas de avena",
+    "ingredientes": [
+      {
+          "idIngrediente": 3,
+          "cantidad": 1
+        },
+        {
+          "idIngrediente": 4,
+          "cantidad": 100
+        },
+        {
+          "idIngrediente": 2,
+          "cantidad": 50
+        },
+        {
+          "idIngrediente": 1,
+          "cantidad": 200
+        }
+    ]
+  }
+]
